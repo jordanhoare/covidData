@@ -10,6 +10,8 @@ From [Portfolio Project]..covidDeaths
 Where continent is not null
 
 
+--------------  Vaccinations Global
+-----------------------------------------------------------------------------
 Create View GlobalVaccinations as
 SELECT 
 	MAX(dea.population) as WorldPopulation,
