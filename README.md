@@ -1,8 +1,6 @@
 # covidData
 
-
-This project was primarily data exploration with SQL (SSMS).  I used a variety of functions to create new views (WITH(), OVER (Partition...), VIEW, JOIN, MAX, CAST, ISNULL aswell as basic math).  I'll be using the newly created views for creating visualizations in PowerBI (or Tablueau).  
-
+I used a SQL database (w/ SSMS) to explore a world-wide time series data collection of covid infections, testing, and demographic information. I used a variety of functions to create new views (WITH(), OVER (Partition...), VIEW, JOIN, MAX, CAST, ISNULL and basic math), that were ultimately visualised in TableAu.
   
   
 REFERENCES: 
