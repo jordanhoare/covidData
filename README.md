@@ -8,7 +8,7 @@ SQL Upskilling
 The purpose of this repo was to upskill on SQL querying skills. I used SSMS to explore time-series data of covid infections, testing, and demographic information across the world.  Below are a list of  skills and functions I aim to demonstrate an understand of.  
 
 </br>
-
+ 
 ## Functions & skills demonstrated
 - [x] With()
 - [x] OVER (Partition...)
