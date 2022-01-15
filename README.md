@@ -5,9 +5,7 @@ SQL Upskilling
 
 ## Background
 
-The purpose of this repo was to upskill on my SQL querying skills.  In this project so far, I have used SSMS to explore time-series data of covid infections, testing, and demographic information.  Below are a list of skills 
-
- and basic math), that were ultimately visualised in TableAu.
+The purpose of this repo was to upskill on my SQL querying skills.  In this project so far, I have used SSMS to explore time-series data of covid infections, testing, and demographic information.  Below are a list of  skills and functions I aim to demonstrate an understand of.  
 
 </br>
 
