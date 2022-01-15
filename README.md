@@ -5,7 +5,7 @@ SQL Upskilling
 
 ## Background
 
-The purpose of this repo was to upskill on my SQL querying skills.  In this project so far, I have used SSMS to explore time-series data of covid infections, testing, and demographic information.  Below are a list of  skills and functions I aim to demonstrate an understand of.  
+The purpose of this repo was to upskill on SQL querying skills. I used SSMS to explore time-series data of covid infections, testing, and demographic information across the world.  Below are a list of  skills and functions I aim to demonstrate an understand of.  
 
 </br>
 
@@ -16,8 +16,10 @@ The purpose of this repo was to upskill on my SQL querying skills.  In this proj
 - [x] JOIN
 - [x] MAX
 - [x] CAST
-- [x] ISNULL
-
+- [x] PROCEDURES
+- [x] Subqueries
+- [ ] Scalar valued function
+- [ ] Injections
 
 
 </br>
